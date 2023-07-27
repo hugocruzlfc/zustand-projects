@@ -1,5 +1,5 @@
 # zustand-projects
-Tres proyectos de menor a mayor grado de dificultad para entender el manejador de estado Zustand
+4 proyectos de menor a mayor grado de dificultad para entender el manejador de estado Zustand para react
 
 # usamos la libreria Zustand
 
